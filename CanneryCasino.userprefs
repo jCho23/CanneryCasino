@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8AE9ACDA-1E0B-466F-8BB2-1EF51F4AA099}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CanneryCasino/Tests.cs">
+    <Files>
+      <File FileName="CanneryCasino/AppInitializer.cs" Line="36" Column="53" />
+      <File FileName="CanneryCasino/Tests.cs" Line="37" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CanneryCasino" expanded="True">
+            <Node name="CanneryCasino" expanded="True">
+              <Node name="CanneryCasino" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CanneryCasino PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
